@@ -22,5 +22,7 @@ After you see the above screen, you can choose the game
 
 Type the first key, the timer will start, the next key you should type is highlighted
 
+![](img/typeCode3.png){width=100%}
 
+Click the **View rankings** of the game, you can see who are best players
 
