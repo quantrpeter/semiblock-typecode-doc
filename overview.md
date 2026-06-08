@@ -10,7 +10,9 @@
 - Global rankings and per-lesson leaderboards (privacy-friendly display names)
 - "Rankings" floating action button + in-app ranking dialogs
 
-## How it works in the platform
+## How to play
+
+Login to [Semiblock](https://build.semiblock.ai) , then click "Type Code"
 
 ![](img/typeCode1.png)
 
