@@ -14,6 +14,13 @@
 
 Login to [Semiblock](https://build.semiblock.ai) , then click "Type Code"
 
-![](img/typeCode1.png)
+![](img/typeCode1.png){width=100%}
+
+After you see the above screen, you can choose the game
+
+![](img/typeCode2.png){width=100%}
+
+Type the first key, the timer will start, the next key you should type is highlighted
+
 
 
